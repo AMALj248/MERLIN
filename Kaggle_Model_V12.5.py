@@ -1,3 +1,4 @@
+#Amal's Code
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -62,7 +63,7 @@ print("No of Countries in the csv = ",unique_value)
 # latest_date=data['ObservationDate'].max()
 # print("Last Observation Data on the csv =",latest_date)
 df=data
-
+#Amal's Code
 #now we group data based on countries
 print("Observation Date and Country/Region grouping are applied ")
 df2=df.groupby(['ObservationDate' , 'Country/Region'], as_index=True, axis=0).aggregate(
