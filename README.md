@@ -15,3 +15,5 @@ It was also acknowleged by one of the Authors of the above mentioned Research Pa
 Link to their Research Paper->https://www.hindawi.com/journals/cmmm/2020/5714714/
 
 Link to My post ->https://www.linkedin.com/feed/update/urn:li:activity:6686362006708088832/
+
+PDF Documentation->https://github.com/AMALj248/MERLIN/blob/master/MERLIN%20Project%20CPU%20and%20GPU%20model.pdf
